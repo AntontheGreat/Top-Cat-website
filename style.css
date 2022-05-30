@@ -1,3 +1,33 @@
 body {
-    background: blue;
+    background-color: black;
+}
+
+h2,
+h3,
+h4 {
+    color: purple;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+body p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-size: 40px;
+}
+
+#Picture {
+    position: absolute;
+    z-index: 1;
+    bottom: 350px;
+    right: 100px;
+    background-color: white;
 }
